@@ -11,7 +11,6 @@ class Report
     public function viewReport()
     {
         $reportData = $this->getReport();
-
         return $this->export->doExport($reportData);
     }
 
