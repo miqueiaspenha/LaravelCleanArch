@@ -20,3 +20,4 @@
 1. Introdução
 2. Arquitetura x Design
 3. Arquitetura Limpa
+4. Entidades
