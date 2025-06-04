@@ -21,3 +21,4 @@
 2. Arquitetura x Design
 3. Arquitetura Limpa
 4. Entidades
+5. Casos de uso
