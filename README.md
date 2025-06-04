@@ -22,3 +22,4 @@
 3. Arquitetura Limpa
 4. Entidades
 5. Casos de uso
+6. Input / Output
