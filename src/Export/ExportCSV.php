@@ -2,10 +2,10 @@
 
 namespace SOLID\Export;
 
-class ExportCSV extends ExportBase
+class ExportCSV implements ExportInterface
 {
 
-    public function doExport($data)
+    public function doExport($data): string
     {
         return implode(', ', $data);
     }

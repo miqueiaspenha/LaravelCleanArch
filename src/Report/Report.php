@@ -2,11 +2,11 @@
 
 namespace SOLID\Report;
 
-use SOLID\Export\ExportBase;
+use SOLID\Export\ExportInterface;
 
 class Report
 {
-    public function __construct(public ExportBase $export) {}
+    public function __construct(public ExportInterface $export) {}
 
     public function viewReport()
     {
