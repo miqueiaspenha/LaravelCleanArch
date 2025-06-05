@@ -23,3 +23,4 @@
 4. Entidades
 5. Casos de uso
 6. Input / Output
+7. Matenha as opções abertas
